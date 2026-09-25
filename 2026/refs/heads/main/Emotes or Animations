@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://gist.githubusercontent.com/RasyneYT/a34754ad9e0f6efbd8ed8e6d2253bc5b/raw/0e032c36ffa19eb5dba39ef181cbd704d0a55497/AnimGUI.lua'))()
